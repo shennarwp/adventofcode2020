@@ -15,6 +15,7 @@ class Sum2020
 	private List<Integer> readInputFile() {
 		List<Integer> list;
 		InputStream is = getClass().getClassLoader().getResourceAsStream("day1_sum2020/input.txt");
+		assert is != null;
 		list = new BufferedReader(new InputStreamReader(is))
 					.lines()
 					.map(Integer::parseInt)
