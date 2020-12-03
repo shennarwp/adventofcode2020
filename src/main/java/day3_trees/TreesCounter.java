@@ -34,7 +34,7 @@ class TreesCounter
 	 * @return how many trees are encountered during traversal
 	 */
 	private int countTrees(int right, int down) {
-		assert this.treeData != null;
+		assert this.treeData != null && this.treeData.length != 0;
 		int x_index = 0;				// column index in char[][]
 		int y_index = 0;				// row index in char[][]
 		int treeCounter = 0;
