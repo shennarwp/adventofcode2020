@@ -7,7 +7,7 @@ import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.List;
 
-public class TreesCounter
+class TreesCounter
 {
 	/* Hold the input data as 2-Dimensional char Array */
 	char[][] treeData;
