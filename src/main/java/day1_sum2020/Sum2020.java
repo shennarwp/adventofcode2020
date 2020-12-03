@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.List;
 import java.util.stream.Collectors;
 
+/* Link to Problem: https://adventofcode.com/2020/day/1 */
 class Sum2020
 {
 	/**
