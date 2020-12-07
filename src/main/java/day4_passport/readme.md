@@ -1,4 +1,4 @@
-# Day 3: Passport Processing
+# Day 4: Passport Processing
 
 Link to problem explanation: https://adventofcode.com/2020/day/4
 

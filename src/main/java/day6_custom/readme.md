@@ -1,4 +1,4 @@
-# Day 3: Custom Customs
+# Day 6: Custom Customs
 
 Link to problem explanation: https://adventofcode.com/2020/day/6
 
