@@ -9,6 +9,7 @@ import java.util.List;
 import java.util.Set;
 import java.util.stream.Collectors;
 
+/* Link to Problem: https://adventofcode.com/2020/day/8 */
 public class InstructionCounter
 {
 	private static final int ACC = 0;
