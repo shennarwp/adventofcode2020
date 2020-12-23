@@ -23,6 +23,10 @@
     <properties>
         <maven.compiler.source>15</maven.compiler.source>
         <maven.compiler.target>15</maven.compiler.target>
+
+         <sonar.projectKey>shennarwp_adventofcode2020</sonar.projectKey>
+         <sonar.organization>shennarwp</sonar.organization>
+         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
 </project>
